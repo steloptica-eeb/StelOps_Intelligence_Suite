@@ -175,11 +175,10 @@ The platform employs a modular architecture enabling flexible deployment configu
 
 ## About StelOptica Systems
 
-StelOptica Systems is a specialized technology company founded in 2024 and based in Austin, Texas. We focus on developing advanced intelligence analysis platforms for government, enterprise, and research organizations. Our mission is to transform complex information ecosystems into actionable intelligence through cutting-edge analytical capabilities and intuitive user experiences.
+StelOptica Systems is a specialized technology firm headquartered in Austin, Texas, founded in 2024. We design and develop advanced intelligence platforms and integrated communication solutions for government, enterprise, and research clients operating in complex or high-stakes environments.
 
+Our flagship product, the **StelOps Intelligence Suite**, leverages cutting-edge research in data analysis, machine learning, and user experience design to transform fragmented information into actionable insight. Engineered for operational clarity and strategic relevance, StelOps enables users to track narratives, decode influence, and dominate the information space.
 *Perpetua visio* - Our commitment to continuous insight drives everything we build.
-
-**StelOps Intelligence Suite** represents our flagship platform, combining intensive research and development in information analysis, machine learning, and user interface design to deliver enterprise-grade intelligence capabilities.
 
 ---
 
