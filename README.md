@@ -1,3 +1,4 @@
+<img src="(https://cdn.prod.website-files.com/667e0193f07eeb213fa37d4b/667e01b5673f4fdb20ab5abc_StelOptica%20Systems%20Logo%20Wide%202000x500.png)" alt="StelOptica Logo" width="300">
 # StelOps Intelligence Suite
 *by StelOptica Systems*
 
